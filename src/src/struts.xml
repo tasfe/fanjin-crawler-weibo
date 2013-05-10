@@ -7,6 +7,7 @@
           <action name="login" class="com.fanjin.action.Login">
               <result name="success">/success.jsp</result>
               <result name="error">/error.jsp</result>
+              <result name="input">/input.jsp</result>
           </action>
       </package>
 </struts>
