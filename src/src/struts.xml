@@ -4,10 +4,18 @@
       "http://struts.apache.org/dtds/struts-2.0.dtd">
   <struts>
       <package name="com.fanjin.action" extends="struts-default">
-          <action name="login" class="com.fanjin.action.Login">
-              <result name="success">/success.jsp</result>
-              <result name="error">/error.jsp</result>
-              <result name="input">/input.jsp</result>
-          </action>
+        <action name="SecurityCodeImageAction" class="com.fanjin.action.SecurityCodeImageAction">
+          <result name="success" type="stream">
+              <param name="contentType">image/jpeg</param>
+              <param name="inputName">imageStream</param>
+              <param name="bufferSize">2048</param>
+          </result>
+      </action>
+      <action name="login" class="com.fanjin.action.LoginAction">
+           <result name="success">/success.jsp</result>
+           <result name="error">/error.jsp</result>
+           <result name="input">/login.jsp</result>
+      </action>
+          
       </package>
 </struts>

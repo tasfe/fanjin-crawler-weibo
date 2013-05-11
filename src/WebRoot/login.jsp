@@ -19,26 +19,31 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
 	<!--
 	<link rel="stylesheet" type="text/css" href="styles.css">
 	-->
+	<script type="text/javascript">      
+function changeValidateCode(obj) {      
+/*** 
+  *   获取当前的时间作为参数，无具体意义    
+  *   每次请求需要一个不同的参数，否则可能会返回同样的验证码     
+  *   这和浏览器的缓存机制有关系，也可以把页面设置为不缓存，这样就不用这个参数了。   
+  */  
+var timenow = new Date().getTime();      
+     
+obj.src="SecurityCodeImageAction?d="+timenow;      
+}      
+</script>     
   </head>
   <title>新浪微博抓取系统</title>
   <body>
   <center>新浪微博抓取系统<font></font></center>
-  <form method="get" action="login"> 
-  		 用户名:
-  		 <input type="text" id="username" name="username"/>
-    <br>
-    <br>
-  	     密码：
-  	 <input type="password" id="password" name="password"/>
-  	 <br>
-              验证码：
-              <s:textfield name="code"></s:textfield>
- 
- <br/>
-  	 <input type="submit" value="登录"/>
-  	 <input type="reset" value="重置"/>"
-  
-  </form>
-   
+  <s:form method="post" action="login"> 
+  		 <s:textfield name="user.username" label="账号"></s:textfield>
+  		 <br/>
+  		<s:textfield name="user.password" label="密码"></s:textfield>
+  	     <br>
+       <s:textfield name="user.code" label="验证码"></s:textfield><img src="SecurityCodeImageAction"  onclick="changeValidateCode(this)" title="点击图片刷新验证码"/> 
+         <br>
+         <s:submit value="登陆"></s:submit> <s:reset value="重置"></s:reset>
+         
+  </s:form>  
   </body>
 </html>

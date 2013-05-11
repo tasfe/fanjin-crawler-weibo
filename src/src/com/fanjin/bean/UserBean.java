@@ -5,9 +5,16 @@ package com.fanjin.bean;
  * 用户登录实体信息
  *
  */
-public class User {
+public class UserBean {
 	public String username;
 	public String password;
+	public String code;
+	public String getCode() {
+		return code;
+	}
+	public void setCode(String code) {
+		this.code = code;
+	}
 	public String getUsername() {
 		return username;
 	}
