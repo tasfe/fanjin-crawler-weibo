@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Thu Jul 21 22:09:34 CST 2011
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=weibobee.jar
+manifest.mergeall=true
+manifest.mainclass=org.yuqing.bean.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=
+includes=
