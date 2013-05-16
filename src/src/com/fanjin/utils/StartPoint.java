@@ -1,8 +1,8 @@
 package com.fanjin.utils;
 
 /**
- * 瀛樻斁涓婁竴娆℃姄鍙栫殑缁堢偣,浣滀负杩欎竴娆℃姄鍙栫殑璧风偣锛岄噰鐢ㄥ崟渚嬫ā寮�
- * @author 鍖楅偖鍚涘悰  weibobee@gmail.com   2011-9-10
+ * 存放上一次抓取的终点,作为这一次抓取的起点，采用单例模式
+ * @author 砍柴的大叔
  */
 import java.util.*;
 import java.io.*;
@@ -23,7 +23,7 @@ public class StartPoint
 		File file= new File(fileName);
 		try 
 		{
-			//濡傛灉鏂囦欢涓嶅瓨鍦� 鍒涘缓
+			//如果文件不存在 创建
 			if(!file.exists())
 				file.createNewFile();
 			
@@ -41,7 +41,7 @@ public class StartPoint
     
 
     /**
-     * 鎶婁竴涓�煎瓨鍏ユ枃浠�
+     * 把一个值存入文件
      * @param key
      * @param value
      * @return
@@ -66,9 +66,9 @@ public class StartPoint
     }
     
     /**
-     * 浠庢枃浠惰鍙栦竴涓��
+     * 从文件读取一个值
      * @param key
-     * @return key瀵瑰簲鐨勫��
+     * @return key对应的值
      */
     public String get(String key)
     {
@@ -89,12 +89,7 @@ public class StartPoint
    
    public static void main(String [] args)
    {
-/*	   StartPoint.getInstance().save("text", "123456");
-	   StartPoint.getInstance().save("text1", "12345");
-	   StartPoint.getInstance().save("text2", "12346");
-	   */
-	   StartPoint sp = new StartPoint("thread1.ini");
-	  // sp.save("id", "12345");
+       StartPoint sp = new StartPoint("thread1.ini");
 	   System.out.println(sp.get("id"));
 
    }
