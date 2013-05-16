@@ -40,11 +40,12 @@ import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
 
+import org.apache.log4j.Logger;
 import org.w3c.dom.Document;
 import org.xml.sax.SAXException;
 
-import weibo4j.Configuration;
-import weibo4j.WeiboException;
+import weibo4j.model.Configuration;
+import weibo4j.model.WeiboException;
 import weibo4j.org.json.JSONArray;
 import weibo4j.org.json.JSONException;
 import weibo4j.org.json.JSONObject;
@@ -56,6 +57,8 @@ import weibo4j.org.json.JSONObject;
  */
 public class Response {
     private final static boolean DEBUG = Configuration.getDebug();
+    static Logger log = Logger.getLogger(Response.class.getName());
+
 
     private static ThreadLocal<DocumentBuilder> builders =
             new ThreadLocal<DocumentBuilder>() {
@@ -134,10 +137,9 @@ public class Response {
      */
     public String asString() throws WeiboException{
         if(null == responseAsString){
-        	InputStream stream = null;
             BufferedReader br;
             try {
-                stream = asStream();
+                InputStream stream = asStream();
                 if (null == stream) {
                     return null;
                 }
@@ -146,16 +148,14 @@ public class Response {
                 String line;
                 while (null != (line = br.readLine())) {
                     buf.append(line).append("\n");
-                    line = null;
                 }
                 this.responseAsString = buf.toString();
-                //add by andy yang
-                buf = null;
-                line = null;
                 if(Configuration.isDalvik()){
                     this.responseAsString = unescape(responseAsString);
                 }
                 log(responseAsString);
+                stream.close();
+                con.disconnect();
                 streamConsumed = true;
             } catch (NullPointerException npe) {
                 // don't remember in which case npe can be thrown
@@ -163,27 +163,10 @@ public class Response {
             } catch (IOException ioe) {
                 throw new WeiboException(ioe.getMessage(), ioe);
             }
-            finally
-            {
-                try 
-                {
-                	if(stream != null)
-					  stream.close();
-					stream = null;
-				} catch (IOException e) {
-					// TODO Auto-generated catch block
-					e.printStackTrace();
-				}
-                con.disconnect();
-                con = null;
-
-            }
         }
         return responseAsString;
     }
-    
-    
-   
+
     /**
      * Returns the response body as org.w3c.dom.Document.<br>
      * Disconnects the internal HttpURLConnection silently.
@@ -278,10 +261,10 @@ public class Response {
                 ", con=" + con +
                 '}';
     }
-
+    
     private void log(String message) {
         if (DEBUG) {
-            System.out.println("[" + new java.util.Date() + "]" + message);
+        	log.debug("[" + new java.util.Date() + "]" + message);
         }
     }
 
