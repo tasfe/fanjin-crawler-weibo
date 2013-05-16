@@ -1,0 +1,2734 @@
+2011-7-20 21:46:24 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/followers.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:24 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:24 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:24 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:24 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:24 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:25 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:25 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:25 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:25 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:25 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:25 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:25 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:25 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:25 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:25 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:25 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:25 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:25 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:26 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:26 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:26 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:26 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:26 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:26 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:26 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:26 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:26 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:26 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:26 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:26 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:26 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:26 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:27 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:27 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:27 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:27 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:27 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:27 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:27 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:27 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:27 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:28 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:28 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:28 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:28 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:28 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:28 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:28 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:28 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:28 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:28 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:28 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:28 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:28 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:28 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:28 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:28 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:28 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:28 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:29 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:29 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:29 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:29 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:29 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:29 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:29 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:29 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:29 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:29 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:29 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:29 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:29 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:30 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:30 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:30 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:30 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:30 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:30 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:30 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:30 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:30 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:31 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:31 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:31 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:31 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:31 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:31 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:31 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:31 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:31 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:31 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:31 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:31 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:31 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:31 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:32 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:32 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:32 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:32 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:32 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:32 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:32 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:32 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:32 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:32 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:32 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:32 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:32 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:33 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:33 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:33 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:33 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:33 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:33 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:33 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:33 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:33 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:33 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:33 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:33 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:33 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:33 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:33 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:34 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:34 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:34 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:34 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:34 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:34 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:34 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:35 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:35 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:35 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:35 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:35 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:35 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:35 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:35 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:35 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:35 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:35 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:35 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:35 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:35 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:36 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:36 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:36 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:36 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:37 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:37 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:37 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:37 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:37 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:37 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:37 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:37 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:37 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:37 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:37 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:37 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:37 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:37 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:38 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:38 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:38 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:38 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:38 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:38 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:38 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:38 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:38 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:38 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:38 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:38 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:38 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:38 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:39 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:39 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-20 21:46:39 org.yuqing.util.MyLogger log
+信息: weibo4j.WeiboException: 403:The request is understood, but it has been refused.  An accompanying error message will explain why.
+{"request":"/statuses/friends.json","error_code":"403","error":"40312:Error: IP requests out of rate limit!"}
+
+2011-7-21 20:28:18 org.yuqing.util.MyLogger log
+信息: 0 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 1 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 2 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 3 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 4 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 5 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 6 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 7 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 8 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 9 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 10 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 11 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 12 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 13 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 14 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 15 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 16 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 17 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 18 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 19 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 20 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 21 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 22 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 23 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 24 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 25 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 26 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 27 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 28 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 29 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 30 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 31 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 32 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 33 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 34 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 35 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 36 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 37 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 38 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 39 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 40 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 41 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 42 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 43 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 44 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 45 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 46 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 47 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 48 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 49 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 50 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 51 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 52 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 53 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 54 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 55 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 56 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 57 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 58 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 59 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 60 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 61 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 62 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 63 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 64 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 65 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 66 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 67 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 68 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 69 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 70 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 71 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 72 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 73 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 74 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 75 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 76 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 77 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 78 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 79 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 80 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 81 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 82 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 83 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 84 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 85 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 86 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 87 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 88 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 89 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 90 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 91 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 92 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 93 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 94 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 95 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 96 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 97 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 98 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 99 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 100 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 101 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 102 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 103 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 104 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 105 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 106 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 107 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 108 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 109 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 110 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 111 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 112 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 113 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 114 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 115 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 116 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 117 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 118 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 119 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 120 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 121 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 122 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 123 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 124 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 125 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 126 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 127 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 128 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 129 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 130 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 131 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 132 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 133 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 134 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 135 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 136 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 137 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 138 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 139 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 140 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 141 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 142 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 143 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 144 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 145 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 146 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 147 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 148 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 149 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 150 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 151 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 152 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 153 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 154 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 155 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 156 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 157 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 158 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 159 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 160 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 161 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 162 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 163 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 164 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 165 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 166 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 167 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 168 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 169 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 170 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 171 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 172 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 173 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 174 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 175 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 176 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 177 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 178 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 179 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 180 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 181 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 182 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 183 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 184 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 185 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 186 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 187 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 188 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 189 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 190 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 191 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 192 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 193 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 194 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 195 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 196 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 197 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 198 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 199 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 200 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 201 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 202 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 203 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 204 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 205 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 206 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 207 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 208 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 209 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 210 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 211 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 212 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 213 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 214 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 215 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 216 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 217 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 218 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 219 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 220 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 221 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 222 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 223 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 224 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 225 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 226 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 227 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 228 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 229 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 230 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 231 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 232 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 233 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 234 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 235 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 236 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 237 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 238 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 239 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 240 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 241 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 242 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 243 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 244 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 245 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 246 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 247 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 248 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 249 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 250 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 251 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 252 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 253 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 254 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 255 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 256 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 257 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 258 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 259 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 260 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 261 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 262 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 263 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 264 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 265 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 266 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 267 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 268 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 269 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 270 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 271 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 272 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 273 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 274 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 275 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 276 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 277 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 278 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 279 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 280 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 281 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 282 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 283 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 284 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 285 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 286 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 287 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 288 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 289 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 290 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 291 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 292 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 293 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 294 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 295 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 296 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 297 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 298 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 299 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 300 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 301 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 302 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 303 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 304 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 305 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 306 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 307 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 308 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 309 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 310 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 311 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 312 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 313 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 314 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 315 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 316 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 317 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 318 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 319 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 320 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 321 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 322 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 323 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 324 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 325 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 326 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 327 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 328 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 329 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 330 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 331 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 332 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 333 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 334 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 335 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 336 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 337 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 338 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 339 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 340 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 341 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 342 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 343 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 344 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 345 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 346 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 347 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 348 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 349 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 350 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 351 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 352 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 353 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 354 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 355 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 356 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 357 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 358 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 359 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 360 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 361 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 362 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 363 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 364 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 365 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 366 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 367 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 368 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 369 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 370 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 371 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 372 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 373 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 374 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 375 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 376 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 377 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 378 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 379 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 380 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 381 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 382 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 383 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 384 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 385 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 386 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 387 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 388 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 389 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 390 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 391 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 392 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 393 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 394 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 395 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 396 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 397 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 398 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 399 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 400 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 401 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 402 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 403 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 404 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 405 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 406 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 407 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 408 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 409 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 410 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 411 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 412 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 413 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 414 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 415 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 416 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 417 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 418 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 419 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 420 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 421 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 422 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 423 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 424 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 425 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 426 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 427 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 428 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 429 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 430 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 431 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 432 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 433 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 434 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 435 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 436 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 437 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 438 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 439 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 440 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 441 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 442 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 443 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 444 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 445 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 446 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 447 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 448 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 449 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 450 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 451 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 452 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 453 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 454 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 455 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 456 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 457 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 458 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 459 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 460 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 461 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 462 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 463 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 464 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 465 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 466 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 467 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 468 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 469 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 470 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 471 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 472 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 473 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 474 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 475 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 476 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 477 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 478 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 479 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 480 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 481 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 482 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 483 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 484 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 485 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 486 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 487 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 488 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 489 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 490 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 491 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 492 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 493 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 494 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 495 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 496 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 497 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 498 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 499 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 500 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 501 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 502 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 503 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 504 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 505 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 506 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 507 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 508 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 509 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 510 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 511 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 512 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 513 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 514 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 515 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 516 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 517 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 518 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 519 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 520 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 521 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 522 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 523 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 524 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 525 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 526 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 527 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 528 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 529 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 530 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 531 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 532 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 533 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 534 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 535 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 536 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 537 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 538 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 539 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 540 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 541 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 542 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 543 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 544 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 545 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 546 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 547 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 548 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 549 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 550 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 551 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 552 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 553 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 554 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 555 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 556 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 557 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 558 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 559 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 560 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 561 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 562 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 563 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 564 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 565 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 566 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 567 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 568 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 569 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 570 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 571 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 572 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 573 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 574 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 575 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 576 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 577 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 578 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 579 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 580 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 581 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 582 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 583 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 584 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 585 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 586 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 587 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 588 loger info
+2011-7-21 20:28:19 org.yuqing.util.MyLogger log
+信息: 589 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 590 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 591 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 592 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 593 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 594 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 595 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 596 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 597 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 598 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 599 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 600 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 601 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 602 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 603 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 604 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 605 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 606 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 607 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 608 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 609 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 610 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 611 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 612 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 613 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 614 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 615 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 616 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 617 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 618 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 619 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 620 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 621 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 622 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 623 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 624 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 625 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 626 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 627 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 628 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 629 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 630 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 631 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 632 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 633 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 634 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 635 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 636 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 637 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 638 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 639 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 640 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 641 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 642 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 643 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 644 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 645 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 646 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 647 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 648 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 649 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 650 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 651 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 652 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 653 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 654 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 655 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 656 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 657 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 658 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 659 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 660 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 661 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 662 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 663 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 664 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 665 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 666 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 667 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 668 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 669 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 670 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 671 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 672 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 673 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 674 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 675 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 676 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 677 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 678 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 679 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 680 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 681 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 682 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 683 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 684 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 685 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 686 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 687 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 688 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 689 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 690 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 691 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 692 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 693 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 694 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 695 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 696 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 697 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 698 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 699 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 700 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 701 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 702 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 703 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 704 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 705 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 706 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 707 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 708 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 709 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 710 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 711 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 712 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 713 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 714 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 715 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 716 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 717 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 718 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 719 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 720 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 721 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 722 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 723 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 724 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 725 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 726 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 727 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 728 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 729 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 730 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 731 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 732 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 733 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 734 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 735 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 736 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 737 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 738 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 739 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 740 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 741 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 742 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 743 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 744 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 745 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 746 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 747 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 748 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 749 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 750 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 751 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 752 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 753 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 754 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 755 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 756 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 757 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 758 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 759 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 760 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 761 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 762 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 763 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 764 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 765 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 766 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 767 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 768 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 769 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 770 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 771 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 772 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 773 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 774 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 775 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 776 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 777 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 778 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 779 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 780 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 781 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 782 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 783 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 784 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 785 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 786 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 787 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 788 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 789 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 790 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 791 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 792 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 793 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 794 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 795 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 796 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 797 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 798 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 799 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 800 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 801 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 802 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 803 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 804 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 805 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 806 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 807 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 808 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 809 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 810 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 811 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 812 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 813 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 814 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 815 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 816 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 817 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 818 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 819 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 820 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 821 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 822 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 823 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 824 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 825 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 826 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 827 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 828 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 829 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 830 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 831 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 832 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 833 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 834 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 835 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 836 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 837 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 838 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 839 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 840 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 841 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 842 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 843 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 844 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 845 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 846 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 847 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 848 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 849 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 850 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 851 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 852 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 853 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 854 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 855 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 856 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 857 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 858 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 859 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 860 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 861 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 862 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 863 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 864 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 865 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 866 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 867 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 868 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 869 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 870 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 871 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 872 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 873 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 874 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 875 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 876 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 877 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 878 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 879 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 880 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 881 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 882 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 883 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 884 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 885 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 886 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 887 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 888 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 889 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 890 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 891 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 892 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 893 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 894 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 895 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 896 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 897 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 898 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 899 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 900 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 901 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 902 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 903 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 904 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 905 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 906 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 907 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 908 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 909 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 910 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 911 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 912 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 913 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 914 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 915 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 916 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 917 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 918 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 919 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 920 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 921 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 922 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 923 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 924 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 925 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 926 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 927 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 928 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 929 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 930 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 931 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 932 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 933 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 934 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 935 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 936 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 937 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 938 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 939 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 940 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 941 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 942 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 943 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 944 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 945 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 946 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 947 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 948 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 949 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 950 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 951 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 952 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 953 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 954 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 955 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 956 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 957 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 958 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 959 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 960 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 961 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 962 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 963 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 964 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 965 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 966 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 967 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 968 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 969 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 970 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 971 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 972 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 973 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 974 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 975 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 976 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 977 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 978 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 979 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 980 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 981 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 982 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 983 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 984 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 985 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 986 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 987 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 988 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 989 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 990 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 991 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 992 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 993 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 994 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 995 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 996 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 997 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 998 loger info
+2011-7-21 20:28:20 org.yuqing.util.MyLogger log
+信息: 999 loger info
+2011-8-21 12:04:25 org.yuqing.util.MyLogger log
+信息: java.lang.IndexOutOfBoundsException: Index: -3, Size: 19
+2011-8-21 12:06:34 org.yuqing.util.MyLogger log
+信息: java.lang.IndexOutOfBoundsException: Index: -16, Size: 19
+2011-8-21 12:08:34 org.yuqing.util.MyLogger log
+信息: java.lang.IndexOutOfBoundsException: Index: -6, Size: 19
+2011-8-21 12:10:34 org.yuqing.util.MyLogger log
+信息: java.lang.IndexOutOfBoundsException: Index: -9, Size: 19
+2011-8-21 12:12:34 org.yuqing.util.MyLogger log
+信息: java.lang.IndexOutOfBoundsException: Index: -11, Size: 19
+2011-9-23 21:57:27 org.yuqing.util.MyLogger log
+信息: java.lang.ArithmeticException: / by zero
+2011-9-23 21:57:39 org.yuqing.util.MyLogger log
+信息: java.lang.ArithmeticException: / by zero

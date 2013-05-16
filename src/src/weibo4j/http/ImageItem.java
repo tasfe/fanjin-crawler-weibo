@@ -90,6 +90,7 @@ public class ImageItem {
 
 				}
 			}
+			
 			if (mcis != null) {
 				try {
 					mcis.close();
