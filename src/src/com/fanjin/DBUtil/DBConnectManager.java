@@ -23,9 +23,9 @@ public class DBConnectManager {
 			String password="sa";
 			DBCon=DriverManager.getConnection(url,user,password);
 		} catch (ClassNotFoundException e1) {
-			System.out.println("Çı¶¯³ÌĞò¼ÓÔØ´íÎó");
+			System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ø´ï¿½ï¿½ï¿½");
 		} catch(SQLException e2){
-			System.out.println("Êı¾İ¿âÁ¬½Ó´íÎó");
+			System.out.println("ï¿½ï¿½İ¿ï¿½ï¿½ï¿½ï¿½Ó´ï¿½ï¿½ï¿½");
 		} catch(Exception e){
 			e.printStackTrace();
 		}
@@ -42,7 +42,7 @@ public class DBConnectManager {
 		}
 	}
 	/**
-	  * ÏòÒ»¸ö±íÖĞ²åÈë¶ÔÏó
+	  * ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½Ğ²ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 	  * @param bib
 	  * @param table
 	  */
@@ -65,14 +65,14 @@ public class DBConnectManager {
 	 }	 
 	 /**
 	  * 
-	  * @param²éÑ¯tableÀïµÄĞÅÏ¢ Ìõ¼şÊÇsituation
-	  * @param table Òª²åÈëµÄ±í
-	  * @return ½á¹ûResultSet¶ÔÏó
+	  * @paramï¿½ï¿½Ñ¯tableï¿½ï¿½ï¿½ï¿½ï¿½Ï¢ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½situation
+	  * @param table Òªï¿½ï¿½ï¿½ï¿½Ä±ï¿½
+	  * @return ï¿½ï¿½ï¿½ResultSetï¿½ï¿½ï¿½ï¿½
 	  */
 	 private ResultSet Query(String table,String situation)
 	 {   
-		 //È¡µÃ¶ÔÏóÃ¿Ò»¸ö³ÉÔ±±äÁ¿µÄÃû×Ö 
-		 //²éÑ¯ÒÔÌõ¼şÎªsituationµÄ½á¹û
+		 //È¡ï¿½Ã¶ï¿½ï¿½ï¿½Ã¿Ò»ï¿½ï¿½ï¿½ï¿½Ô±ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 
+		 //ï¿½ï¿½Ñ¯ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Îªsituationï¿½Ä½ï¿½ï¿½
 		 String sql = " select * from "+ table +"  "+situation +";";
 
 		 ResultSet r = null;	
@@ -90,7 +90,7 @@ public class DBConnectManager {
 	 
 	 
 	 /**
-	  * ²åÈëÓÃ»§Êı¾İ
+	  * 
 	  * @param bib
 	  * @param table
 	  */
@@ -124,7 +124,7 @@ public class DBConnectManager {
 	 
 	 
 	 /**
-	  * ²åÈëÎ¢²©
+	  * ï¿½ï¿½ï¿½ï¿½Î¢ï¿½ï¿½
 	  * @param bib
 	  * @param table
 	  */
@@ -160,9 +160,9 @@ public class DBConnectManager {
 	 
 	 /**
 	  * 
-	  * @param bib Òª²åÈëµÄ¶ÔÏó
-	  * @param table Òª²åÈëµÄ±í
-	  * @return ·µ»ØÒ»Ìõ²åÈëÓï¾ä
+	  * @param bib Òªï¿½ï¿½ï¿½ï¿½Ä¶ï¿½ï¿½ï¿½
+	  * @param table Òªï¿½ï¿½ï¿½ï¿½Ä±ï¿½
+	  * @return ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 	  */
 	 public String getInsertSql(Object bib, String table)
 	 {   
@@ -193,7 +193,7 @@ public class DBConnectManager {
 	 
 	 
 	 /**
-	  * È¡µÃÏÖÔÚ×Ü¹²ÓĞ¶àÉÙĞÅÏ¢
+	  * È¡ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü¹ï¿½ï¿½Ğ¶ï¿½ï¿½ï¿½ï¿½ï¿½Ï¢
 	  * @return
 	  */
 	 public int getTotal(String table)

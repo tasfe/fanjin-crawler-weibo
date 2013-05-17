@@ -1,42 +1,43 @@
 package com.fanjin.thread;
 
-import java.util.Date;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
+import weibo4j.Friendships;
 import weibo4j.Users;
-import weibo4j.Weibo;
-import weibo4j.model.Paging;
 import weibo4j.model.User;
 import weibo4j.model.UserWapper;
+import weibo4j.model.WeiboException;
+
 import com.fanjin.DBUtil.DBConnectManager;
 import com.fanjin.bean.BaseInfoBean;
 import com.fanjin.bean.StatusBean;
-import com.fanjin.utils.MyLogger;
+import com.fanjin.main.Main;
 import com.fanjin.utils.StartPoint;
 
 public class GrabThreadDetial extends GrabThread{
 
-	//´æ·ÅÓÃ»§»ù±¾ĞÅÏ¢
+	public static String  access_token="2.00v5kaoCPopJNB17f90533efeTY2CC";
+	public static String uid="2579840641";
+	public static String id = "2579840641";
+	public static int tag=0;
+	//ç”¨æˆ·ä¿¡æ¯åˆ—è¡¨
 	private List<BaseInfoBean> list = null;
-	//´æ·ÅÓÃ»§µÄÎ¢²©Êı
+	//ç”¨æˆ·å¾®åšåˆ—è¡¨
 	private List<StatusBean>   list1 = null;
-	//Êı¾İ¿â²Ù×÷
+	//å¾®åšæ•°æ®åº“ç®¡ç†
 	private DBConnectManager weibodb = null;
-	//ÅäÖÃÎÄ¼şÃû
+	//é…ç½®æ–‡ä»¶
 	private String fileName = null;
 
 	Pattern p1 = Pattern.compile("[\"|'|\\\\]");	
 	private int index = 0;
 	UserWapper user=null;
-	public GrabThreadDetial(Object user,String name){
-		this.user    = (UserWapper)user;
-		this.fileName = name;
-		weibodb = new DBConnectManager();
-		list = new LinkedList<BaseInfoBean>();		
-		//³õÊ¼»¯list
-	    initList();
-	}
+	
 	public void run(){
 	
 				
@@ -47,7 +48,7 @@ public class GrabThreadDetial extends GrabThread{
 		 System.out.println("id = " + value);
 		 try
 		 {
-			 if(value == null || value.equals("")) //µÚÒ»´ÎÊ¹ÓÃ
+			 if(value == null || value.equals("")) //ç¬¬ä¸€æ¬¡è¯»
 			 {		
 				System.out.println("startPoint  failed");
 				List l = user.getUsers();
@@ -73,7 +74,95 @@ public class GrabThreadDetial extends GrabThread{
 		// TODO Auto-generated method stub
 		return null;
 	}
+	//é€šè¿‡idæŠ“å–å¥½å‹åˆ—è¡¨
+	private List getFriendsByID(String id) throws WeiboException{
+		Friendships fm = new Friendships();
+		fm.client.setToken(Main.access_token);
+		String[] uid = fm.getFriendsIdsByUid(id);
+		
+		List list=new ArrayList();
+		for(String u : uid){
+			System.out.println("å…³æ³¨åˆ—è¡¨ï¼š"+u.toString());
+			list.add(u);
+		}
+		System.out.println("å…³æ³¨åˆ—è¡¨:"+list.toString());
+		return list;
+	}
+	private List getFollowersIdsById(String id) throws WeiboException{
+		Friendships fm = new Friendships();
+		fm.client.setToken(Main.access_token);
+		String[] users = fm.getFollowersIdsById(id);
+		
+		List list=new ArrayList();
+		for(String u : users){
+			System.out.println("ç²‰ä¸åˆ—è¡¨ï¼š"+u.toString());
+			tag++;
+			
+			list.add(u);
+		}
+		System.out.println(list.toString());
+		System.out.println(tag);
+		return list;
+		
+	}
+	private BaseInfoBean showUserById(String id){
+		BaseInfoBean userinfo=new BaseInfoBean();
+		
+		return null;
+		
+	}
+	private BaseInfoBean user2BaseInfo(String uid) throws WeiboException{
+		Users um = new Users();
+		um.client.setToken(access_token);
+		User user = um.showUserById(uid);
+		if(user==null)
+			return null;
+		SimpleDateFormat format = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
+		BaseInfoBean userinfo=new BaseInfoBean();
+		userinfo.setWeiboUserID(user.getId());
+		userinfo.setWeiboName(user.getName());
+		userinfo.setWeiboCity(user.getLocation());
+		String discr = user.getDescription();
+		if(discr != null)
+		{
+			Matcher m = p1.matcher(discr);
+			discr = m.replaceAll(" ");
+			userinfo.setWeiboDesciption(discr);
+		}
+		else userinfo.setWeiboDesciption("");
+		userinfo.setWeibocreateTime(format.format(user.getCreatedAt()));
+		userinfo.setWeiboGender(user.getGender());
+		userinfo.setWeiboFollwersCount(user.getFollowersCount());
+		userinfo.setWeiboFriendsCount(user.getFriendsCount());
+		userinfo.setWeiboFavouritiesCount(user.getFavouritesCount());
+		//æ˜¯å¦è®¤è¯
+		if(user.isVerified())
+			userinfo.setWeiboV(0);
+		else userinfo.setWeiboV(1);
+		return userinfo;
+	}
+	public static void main(String[] args) {
+		GrabThreadDetial grab=new GrabThreadDetial();
+		try {
+			grab.getFriendsByID(id);
+			List list=grab.getFollowersIdsById(id);
+			System.out.println(list.size());
+			int a=list.size();
+			List list2=grab.getFollowersIdsById(id);
+			for(int i=0;i<list2.size();i++){
+				String id=list2.get(i).toString();
+				BaseInfoBean baseinfo=grab.user2BaseInfo(id);
+				System.out.println(baseinfo.toString());
 
+				}
+		
+			
+			
+		} catch (WeiboException e) {
+			// TODO Auto-generated catch block
+			//e.printStackTrace();
+		}
+	}
 	
 
 }

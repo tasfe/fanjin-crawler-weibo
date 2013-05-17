@@ -24,8 +24,8 @@ import com.fanjin.bean.BaseInfoBean;
 
 /**
  * 
- * @author ¿³²ñµÄ´óÊå
- * ×¥È¡Ò»¸öÎ¢²©µÄÏêÏ¸ĞÅÏ¢
+ * @author ï¿½ï¿½ï¿½ï¿½Ä´ï¿½ï¿½ï¿½
+ * ×¥È¡Ò»ï¿½ï¿½Î¢ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï¸ï¿½ï¿½Ï¢
  *
  */
 public class Main {
@@ -39,57 +39,57 @@ public class Main {
 	BaseInfoBean weibobean=new BaseInfoBean();
 	public static void main(String[] args)  {
 		writeDiskInfo();
-		//»ñÈ¡ÓÃ»§
+		//ï¿½ï¿½È¡ï¿½Ã»ï¿½
 		Users um = new Users();
 		um.client.setToken(access_token);
-		//»ñÈ¡ÆÀÂÛ
+		//ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½
 		Comments cm =new Comments();
 		cm.client.setToken(access_token);
-		//»ñÈ¡ÅóÓÑ
+		//ï¿½ï¿½È¡ï¿½ï¿½ï¿½ï¿½
 		Friendships fm = new Friendships();
 		fm.client.setToken(access_token);
-		//»ñÈ¡ÊÕ²Ø
+		//ï¿½ï¿½È¡ï¿½Õ²ï¿½
 		Favorite ft = new Favorite();
 		ft.client.setToken(access_token);
-	    //Î¢²©ÁĞ±í
+	    //Î¢ï¿½ï¿½ï¿½Ğ±ï¿½
 		Timeline tm = new Timeline();
 		tm.client.setToken(access_token);
 		try {
 			User user = um.showUserById(uid);
-			System.out.println("ÓÃ»§»ù±¾ĞÅÏ¢");
-			System.out.println("ÓÃ»§id£º"+user.getId());
-			System.out.println("ÓÃ»§Ãû£º"+user.getName());
-			System.out.println("ÓÃ»§µØÖ·£º"+user.getLocation());
-			System.out.println("ÓÃ»§ÃèÊö£º"+user.getDescription());
-			System.out.println("´´½¨ÈÕÆÚ£º"+user.getCreatedAt());
-			System.out.println("ĞÔ±ğ£º"+user.getGender());
-			System.out.println("·ÛË¿Êı£º"+user.getFollowersCount());
-			System.out.println("¹Ø×¢Êı£º"+user.getFriendsCount());
-			System.out.println("×´Ì¬Êı£º"+user.getStatusesCount());
-			System.out.println("ÊÕ²ØÊı£º"+user.getFavouritesCount());
-			System.out.println("×´Ì¬£º"+user.getStatus());
-			String screen_name ="ÆğÀ´×Ô³æ";
+			System.out.println("å¾®åšè´¦å·ä¿¡æ¯");
+			System.out.println("ç”¨æˆ·idï¼š"+user.getId());
+			System.out.println("ç”¨æˆ·åç§°ï¼š"+user.getName());
+			System.out.println("ç”¨æˆ·åœ°åŒºï¼š"+user.getLocation());
+			System.out.println("ç”¨æˆ·æè¿°ï¼š"+user.getDescription());
+			System.out.println("ç”¨æˆ·åˆ›å»ºæ—¶é—´ï¼š"+user.getCreatedAt());
+			System.out.println("ç”¨æˆ·æ€§åˆ«ï¼š"+user.getGender());
+			System.out.println("ç”¨æˆ·ç²‰ä¸æ•°ï¼š"+user.getFollowersCount());
+			System.out.println("ç”¨æˆ·å¥½å‹æ•°ï¼š"+user.getFriendsCount());
+			System.out.println("ç”¨æˆ·å¾®åšæ•°ï¼š"+user.getStatusesCount());
+			System.out.println("ç”¨æˆ·æ”¶è—æ•°ï¼š"+user.getFavouritesCount());
+			System.out.println("ç”¨æˆ·æœ€æ–°çš„çŠ¶æ€ï¼š"+user.getStatus());
+			String screen_name ="èµ·æ¥è‡ªè™«";
 			UserWapper users1 = fm.getFriendsByID(id);
 			for(User u : users1.getUsers()){
-				System.out.println("ÓÃ»§µÄ¹Ø×¢ÁĞ±í"+u.toString());
+				System.out.println("å¥½å‹åˆ—è¡¨ï¼š"+u.toString());
 			}
 			System.out.println(users1.getNextCursor());
 			System.out.println(users1.getPreviousCursor());
 			System.out.println(users1.getTotalNumber());
 			UserWapper users = fm.getFollowersByName(screen_name);
 			for(User u : users.getUsers()){
-				System.out.println("ÓÃ»§µÄ·ÛË¿ÁĞ±í"+u.toString());
+				System.out.println("ç²‰ä¸åˆ—è¡¨ï¼š"+u.toString());
 			}
 			System.out.println(users.getNextCursor());
 			System.out.println(users.getPreviousCursor());
 			System.out.println(users.getTotalNumber());
 			List<Favorites> favors = ft.getFavorites();
 			for(Favorites s : favors){
-			System.out.println("ÓÃ»§µÄÊÕ²ØÁĞ±í"+s.toString());
+			System.out.println("æ”¶è—åˆ—è¡¨"+s.toString());
 			}
 			StatusWapper status = tm.getUserTimeline();
 			for(Status s : status.getStatuses()){
-				System.out.println("×îĞÂµÄÎ¢²©ÁĞ±í"+s.toString());
+				System.out.println("æœ€æ–°å¾®åšåˆ—è¡¨"+s.toString());
 			}
 			JSONObject ids = tm.getUserTimelineIdsByUid(args[1]);
 			Log.logInfo(ids.toString());
@@ -104,17 +104,17 @@ public class Main {
 	}
 	public static void writeDiskInfo() {
 		String dirName = "D:\\disk\\";
-		String fileName = "Î¢²©ĞÅÏ¢.txt";
+		String fileName = "weibo.txt";
 		File file = new File(dirName + fileName);
-		// µ±ÎÄ¼şÄ¿Â¼²»´æÔÚÊ±
+	
 		if (!file.getParentFile().exists()) {
-		file.getParentFile().mkdirs();// ´´½¨ÎÄ¼şÄ¿Â¼
+		file.getParentFile().mkdirs();
 		}
 		try {
-		file.createNewFile();// ´´½¨ÎÄ¼ş
+		file.createNewFile();
 		FileOutputStream fileOutputStream = new FileOutputStream(file);
 		PrintStream printStream = new PrintStream(fileOutputStream);
-		System.setOut(printStream);// ÖØĞÂ·ÖÅä±ê×¼Êä³öÁ÷
+		System.setOut(printStream);
 		//System.out.println("world");
 		} catch (FileNotFoundException e) {
 		e.printStackTrace();

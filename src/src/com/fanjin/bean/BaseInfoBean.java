@@ -5,9 +5,9 @@ import java.sql.Date;
 
 /**
  * 
- * @author ¿³²ñµÄ´óÊå
+ * @author ï¿½ï¿½ï¿½ï¿½Ä´ï¿½ï¿½ï¿½
  * @version V1.0
- * ¶¨ÒåÒ»¸öÎ¢²©ÕËºÅµÄ»ù±¾ĞÅÏ¢Àà
+ * ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½Î¢ï¿½ï¿½ï¿½ËºÅµÄ»ï¿½ï¿½ï¿½Ï¢ï¿½ï¿½
  */
 public class BaseInfoBean implements Serializable{
 		/**
@@ -16,11 +16,13 @@ public class BaseInfoBean implements Serializable{
 	private static final long serialVersionUID = -2332719160811058040L;
 		public String weiboUserID;
 		public String weiboName;
-		public int weiboV;				//²ÉÓÃ0ÊÇ´óV£¬1ÊÇÆÕÍ¨ÓÃ»§
-		public long weiboCount;         //·¢µÄÎ¢²©ÊıÄ¿
-		public long weiboFollwersCount;  //·ÛË¿ÊıÄ¿
-		public long weiboFriendsCount;	 //¹Ø×¢µÄºÃÓÑÊı
-		public int weiboLevel;			 //Î¢²©µÈ¼¶
+		public String weibocreateTime;	
+		public int weiboFavouritiesCount;//æ”¶è—æ•°
+		public int weiboV;				//ï¿½ï¿½ï¿½ï¿½0ï¿½Ç´ï¿½Vï¿½ï¿½1ï¿½ï¿½ï¿½ï¿½Í¨ï¿½Ã»ï¿½
+		public long weiboCount;         //ï¿½ï¿½ï¿½ï¿½Î¢ï¿½ï¿½ï¿½ï¿½Ä¿
+		public long weiboFollwersCount;  //ï¿½ï¿½Ë¿ï¿½ï¿½Ä¿
+		public long weiboFriendsCount;	 //ï¿½ï¿½×¢ï¿½Äºï¿½ï¿½ï¿½ï¿½ï¿½
+		public int weiboLevel;			 //Î¢ï¿½ï¿½ï¿½È¼ï¿½
 		public String weiboProvince;
 		public String weiboCity;
 		public String weiboGender;
@@ -48,6 +50,21 @@ public class BaseInfoBean implements Serializable{
 
 		public void setWeiboName(String weiboName) {
 			this.weiboName = weiboName;
+		}
+		public int getWeiboFavouritiesCount() {
+			return weiboFavouritiesCount;
+		}
+
+		public void setWeiboFavouritiesCount(int weiboFavouritiesCount) {
+			this.weiboFavouritiesCount = weiboFavouritiesCount;
+		}
+
+		public String getWeibocreateTime() {
+			return weibocreateTime;
+		}
+
+		public void setWeibocreateTime(String weibocreateTime) {
+			this.weibocreateTime = weibocreateTime;
 		}
 
 		public int getWeiboV() {
